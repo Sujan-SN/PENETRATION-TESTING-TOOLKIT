@@ -77,3 +77,6 @@ In the future, I plan to enhance the Penetration Testing Toolkit by:
 2. Improving Performance and Efficiency: I plan to improve the performance and efficiency of the toolkit by optimizing the code and using more efficient algorithms.
 3. Adding Support for More Platforms: I plan to add support for more platforms, including mobile devices and embedded systems.
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/175af64e-cd06-4c37-a6c6-9d228e7985e5)
